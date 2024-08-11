@@ -31,7 +31,7 @@ Before running the project, you need to have the following installed:
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your_username/libras-gesture-recognition.git
+git clone https://github.com/LucasDAMASCENO26/libras-gesture-recognition.git
 cd libras-gesture-recognition
 pip install -r requirements.txt
 ```
